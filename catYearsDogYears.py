@@ -1,3 +1,4 @@
+"""Este código convierte la edad de perros y gatos a años humanos"""
 def calculate_pet_years(human_years):
     # Calcular años del gato
     if human_years == 1:
