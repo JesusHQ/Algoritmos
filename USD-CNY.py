@@ -16,5 +16,5 @@ ejemplo_1 = convertir_usd_a_cny(15)
 ejemplo_2 = convertir_usd_a_cny(465)
 
 # Mostramos los resultados de los ejemplos
-print(ejemplo_1)  # '101.25 Chinese Yuan'
-print(ejemplo_2)  # '3138.75 Chinese Yuan'
+print(ejemplo_1)  # '101.25 Chinese a Yuan'
+print(ejemplo_2)  # '3138.75 Chinese a Yuan'

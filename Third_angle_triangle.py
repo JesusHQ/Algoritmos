@@ -11,4 +11,4 @@ angulo2 = int(input("Introduce el segundo ángulo: "))
 resultado = tercer_angulo(angulo1, angulo2)
 
 # Mostrar el resultado
-print(f"El tercer ángulo es: {resultado} grados")
+print(f"El tercer ángulo es: {resultado}° grados")

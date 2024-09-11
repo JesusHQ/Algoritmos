@@ -16,4 +16,4 @@ mpg = float(input("Introduce los minutos por juego (mpg): "))
 extrapolacion = nba_extrap(ppg, mpg)
 
 # Mostramos el resultado
-print(f"La extrapolación de puntos por 48 minutos es: {extrapolacion}")
+print(f"La extrapolación de puntos por 48 minutos es de: {extrapolacion}")

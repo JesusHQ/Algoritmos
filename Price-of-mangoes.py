@@ -16,4 +16,4 @@ precio_por_mango = float(input("Introduce el precio por mango: "))
 costo = mango(cantidad, precio_por_mango)
 
 # Mostrar el resultado
-print(f"El costo total es: ${costo:.2f}")
+print(f"El costo total es de: ${costo:.2f}")
