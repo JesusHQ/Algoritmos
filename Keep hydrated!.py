@@ -1,4 +1,4 @@
-import math
+import math # Importamos la librería math para usar la función ceil()
 
 # Función que calcula la cantidad de litros de agua que Nathan beberá durante el ciclismo
 def calcular_litros(time):
